@@ -1,902 +1,657 @@
-Form	Lemma	UPosTag	XPosTag	Feats	Head	DepRel	Deps	Misc
-блин	блин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-без	без	ADP	_	_	_	_	_	SpacesAfter=\r\n
-кофе	кофе	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-начинаю	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-никогда	никогда	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-нда	нда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-что	что	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-жень	жень	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-расскажи	рассказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-как	как	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-добрался	добраться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-мхм	мх	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-гэ	гэ	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-жэ	жэ	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-мхм	мх	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-да	да	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-а	а	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ам	о	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-уже	уже	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-на	на	ADP	_	_	_	_	_	SpacesAfter=\r\n
-метро	метро	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-езжу	езж	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-езжу	ездить	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-на	на	ADP	_	_	_	_	_	SpacesAfter=\r\n
-машине	машина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ам	о	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-э	э	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-момент	момент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-когда	когда	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-теплеет	теплеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\r\n
-достают	доставать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-легкую	легкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-одежду	одежда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-слишком	слишком	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-рано	рано	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-им	они	PRON	_	Case=Dat|Number=Plur|Person=3	_	_	_	SpacesAfter=\r\n
-холодно	холодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-недавно	недавно	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-как	как	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-слишком	слишком	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-рано	рано	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-достал	достать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-кабриолет	кабриолет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-явно	явно	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-холодно	холодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	SpacesAfter=\r\n
-потому	потому	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-что	что	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-пуховике	пуховик	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-шапке	шапка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-нда	нда	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-бы	бы	AUX	_	_	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-вообще	вообще	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-покупать	покупать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-э	э	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-кабриолет	кабриолет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-потому	потому	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-что	что	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-живу	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-плохом	плохой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-уверен	уверенный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	SpacesAfter=\r\n
-что	что	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-припаркаюсь	припаркаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-где-то	где-то	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-отойду	отойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-через	через	ADP	_	_	_	_	_	SpacesAfter=\r\n
-время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-вернусь	вернуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-а	а	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-там	там	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-кто-то	кто-то	PRON	_	Case=Nom	_	_	_	SpacesAfter=\r\n
-сидит	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-а	а	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-ничего	ничто	PRON	_	Case=Gen	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-смогу	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-потому	потому	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-что	что	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-смелый	смелый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	SpacesAfter=\r\n
-просто	просто	PART	_	_	_	_	_	SpacesAfter=\r\n
-будем	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-с	с	ADP	_	_	_	_	_	SpacesAfter=\r\n
-ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-кататься	катываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-по	по	ADP	_	_	_	_	_	SpacesAfter=\r\n
-городу	город	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-там	там	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-покажу	показать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-Москву	Москва	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-пососемся	пососться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-да	да	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-мхм	мх	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-мм	миллиметр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-мда	мд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-мхм	мх	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-смотрю	смотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-у	у	ADP	_	_	_	_	_	SpacesAfter=\r\n
-тя	ть	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-да	да	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-тяга	тяга	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-к	к	ADP	_	_	_	_	_	SpacesAfter=\r\n
-знаниям	знание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-хорошо	хороший	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-учился	учиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-универе	универа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-мхм	мх	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-да	да	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-пятый	пятый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-курс	курс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-да	да	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-понял	понять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-погода	погода	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-конечно	конечно	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-так	так	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-себе	себя	PRON	_	Case=Dat	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-живу	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-Москва	Москва	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-очень	очень	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-мрачный	мрачный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-город	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-очень	очень	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-серый	серый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-единственное	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-где	где	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-утром	утро	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-встаешь	встать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-подходишь	подходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-к	к	ADP	_	_	_	_	_	SpacesAfter=\r\n
-окну	окно	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-раскрываешь	раскрывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-шторы	штора	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\r\n
-и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-комната	комната	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-темнее	темный	ADJ	_	Degree=Cmp	_	_	_	SpacesAfter=\r\n
-чем	чем	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-да	да	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-его	он	DET	_	_	_	_	_	SpacesAfter=\r\n
-главное	главный	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-перепить	перепить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-нормально	нормально	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-на	на	ADP	_	_	_	_	_	SpacesAfter=\r\n
-метро	метро	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-ехал	ехать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-вот	вот	PART	_	_	_	_	_	SpacesAfter=\r\n
-единственная	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-проблемка	проблемка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-возникла	возникнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ко	к	ADP	_	_	_	_	_	SpacesAfter=\r\n
-мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-кавказец	кавказец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-подсел	дсеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-узнать	узнать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-гей	гей	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\r\n
-ли	ли	PART	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-прикинь	прикинь	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-вначале	вначале	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-две	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Fem	_	_	_	SpacesAfter=\r\n
-станции	станция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-прям	пре	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\r\n
-буравил	буравило	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-взглядом	взгляд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-пытался	пытаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-поймать	поймать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-а	а	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-у	у	ADP	_	_	_	_	_	SpacesAfter=\r\n
-меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-даже	даже	PART	_	_	_	_	_	SpacesAfter=\r\n
-телефона	телефон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-с	с	ADP	_	_	_	_	_	SpacesAfter=\r\n
-собой	себя	PRON	_	Case=Ins	_	_	_	SpacesAfter=\r\n
-нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-просто	просто	PART	_	_	_	_	_	SpacesAfter=\r\n
-по	по	ADP	_	_	_	_	_	SpacesAfter=\r\n
-дуге	дуга	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-взглядом	взгляд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-обвожу	обводить	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-моменте	момент	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-все-таки	все-таки	PART	_	_	_	_	_	SpacesAfter=\r\n
-поймал	поймать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-надел	надеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-капюшон	капюшон	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-сел	сесть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-ко	к	ADP	_	_	_	_	_	SpacesAfter=\r\n
-мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-гэ	гэ	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-говорю	говорить	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-что	что	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-гэ	гэ	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-гэ	гэ	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-второй	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-уже	уже	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-говорю	говорить	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-что	что	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-еще	еще	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-гэ	гэ	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-а	а	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-действительно	действительно	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-понимал	понимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-странно	странно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-пытаться	пытаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	SpacesAfter=\r\n
-угадать	гадать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-что	что	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-гэ	гэ	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-гэ	гэ	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-жэ	жэ	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-общем	общий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-узнать	узнать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-гей	гей	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\r\n
-ли	ли	PART	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-Женек	Женек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-странно	странно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	SpacesAfter=\r\n
-было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-бы	бы	AUX	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-узнать	узнать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-ни	ни	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-гей	гей	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\r\n
-ли	ли	PART	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-говорю	говорить	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-у	у	ADP	_	_	_	_	_	SpacesAfter=\r\n
-тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-прическа	прическа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-женская	женский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-у	у	ADP	_	_	_	_	_	SpacesAfter=\r\n
-меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-тогда	тогда	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-действительно	действительно	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-другая	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-прическа	прическа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-у	у	ADP	_	_	_	_	_	SpacesAfter=\r\n
-меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-из	из	ADP	_	_	_	_	_	SpacesAfter=\r\n
-кудрей	кудрей	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\r\n
-[нрзб]	нрзб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-сплетены	сплести	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-тепло	тепло	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-одет	одеть	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	SpacesAfter=\r\n
-даже	даже	PART	_	_	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-выгонишь	выгонить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-думаешь	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-покатаетесь	покатаеться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-па-	по	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-короче	короткий	ADJ	_	Degree=Cmp	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-кстати	кстати	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-что	что	PRON	_	Case=Nom	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-кабриолеты	кабриолет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\r\n
-изначально	изначально	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-девятнадцатом	девятнадцат	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-веке	век	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-во	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-появились	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-причём	причем	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-легковой	легковой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-автомобиль	автомобиль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-как	как	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-с	с	ADP	_	_	_	_	_	SpacesAfter=\r\n
-откидывающимся	откидывающиться	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-а	а	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-верхом	верх	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-а	а	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-легкая	легкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-повозка	повозка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-конная	конный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-которая	который	PRON	_	Case=Nom	_	_	_	SpacesAfter=\r\n
-на	на	ADP	_	_	_	_	_	SpacesAfter=\r\n
-лошадь	лошадь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-запрягалась	запрягать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-со-	с	ADP	_	_	_	_	_	SpacesAfter=\r\n
-складывающейся	складываться	VERB	_	Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpacesAfter=\r\n
-крышей	крыша	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-а	а	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	SpacesAfter=\r\n
-получили	получить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-распространение	распространение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-Париже	Париж	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-Лондоне	Лондон	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-континентальной	континентальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-Европе	Европа	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	SpacesAfter=\r\n
-причем	причем	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-назывались	называться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-от	от	ADP	_	_	_	_	_	SpacesAfter=\r\n
-французского	французский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-кабриоле	кабриол	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-допустим	допустить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-а	а	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-Великобритании	Великобритания	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-э	э	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-назывались	называться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-дроп	дроп	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-хэд	хэд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-каб	каб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-а	а	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-купэ	купэ	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-со	с	ADP	_	_	_	_	_	SpacesAfter=\r\n
-скл-	скл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-с	с	ADP	_	_	_	_	_	SpacesAfter=\r\n
-откидывающейся	откидываться	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	_	_	_	SpacesAfter=\r\n
-с	с	ADP	_	_	_	_	_	SpacesAfter=\r\n
-опускающейся	опускать	VERB	_	Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	_	_	_	SpacesAfter=\r\n
-крышей	крыша	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-уже	уже	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-Австралии	Австралия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-конвёртбл	конвёртбласть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-нормально	нормальный	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-иногда	иногда	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-хорошо	хороший	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-а	а	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-иногда	иногда	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-очень	очень	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-вот	вот	PART	_	_	_	_	_	SpacesAfter=\r\n
-год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-назад	назад	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-закончил	закончить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-как	как	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-на	на	ADP	_	_	_	_	_	SpacesAfter=\r\n
-последнем	последний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-курсе	курс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-забавная	забавный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-получилась	получиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-что	что	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-скидываю	скидывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-преподу	препод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-работу	работа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-пишет	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-че	что	PRON	_	Case=Nom	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-отправил	отправить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-а	а	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-а	а	X	_	Foreign=Yes	_	_	_	SpacesAfter=\r\n
-тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-ебет	ебть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-извиняюсь	извиняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-че	что	PRON	_	Case=Nom	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-отправил	отправить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-че-то	что	PRON	_	Case=Nom	_	_	_	SpacesAfter=\r\n
-отправил	отправить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-че-то	что	PRON	_	Case=Nom	_	_	_	SpacesAfter=\r\n
-проверил	проверить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-играем	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-свои	свой	DET	_	Case=Acc|Number=Plur	_	_	_	SpacesAfter=\r\n
-роли	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-хватит	хватать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-капать	капать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-под	под	ADP	_	_	_	_	_	SpacesAfter=\r\n
-меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-пятый	пятый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-курс	курс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
- 								
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-[нрзб]	нрзб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-зип	зип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-двадцать	двадцать	NUM	_	Case=Acc	_	_	_	SpacesAfter=\r\n
-четыре	четыре	NUM	_	Animacy=Inan|Case=Acc	_	_	_	SpacesAfter=\r\n
-года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-на	на	ADP	_	_	_	_	_	SpacesAfter=\r\n
-тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-[нрзб]	нрзб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-зип	зип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-скачал	скачать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-для	для	ADP	_	_	_	_	_	SpacesAfter=\r\n
-этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-архив	архив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-запаковал	запаковать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-туда	туда	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-что-то	что	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-на	на	ADP	_	_	_	_	_	SpacesAfter=\r\n
-мейлру	мейлр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-зашел	зайти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-такой	такой	DET	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-че	что	PRON	_	Case=Nom	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-отправил	отправить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-вау	вау	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-архив	архив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-вот	вот	PART	_	_	_	_	_	SpacesAfter=\r\n
-должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	_	_	_	SpacesAfter=\r\n
-была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-реакция	реакция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-а	а	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-что	что	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-эт	эт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-как-то	как-то	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-реагируешь	реагировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-у	у	ADP	_	_	_	_	_	SpacesAfter=\r\n
-тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-с	с	ADP	_	_	_	_	_	SpacesAfter=\r\n
-настроением	настроение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-что-то	что-то	PRON	_	Case=Acc	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-из-за	из-за	ADP	_	_	_	_	_	SpacesAfter=\r\n
-погоды	погода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-мхм	мх	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-а	а	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-спросить	спросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-че-то	что	PRON	_	Case=Nom	_	_	_	SpacesAfter=\r\n
-хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-спросить	спросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-занимался	заниматься	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-ли	ли	PART	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-паркуром	паркур	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-да	да	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-э-	э	X	_	Foreign=Yes	_	_	_	SpaceAfter=No
-да	да	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-точку	точка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-в	в	ADP	_	_	_	_	_	SpacesAfter=\r\n
-точку	точка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-занимался	заниматься	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	SpacesAfter=\r\n
-занимались	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-с	с	ADP	_	_	_	_	_	SpacesAfter=\r\n
-другом	другой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-ровно	ровно	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-до	до	ADP	_	_	_	_	_	SpacesAfter=\r\n
-того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-момента	момент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-пока	пока	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-не	не	PART	_	_	_	_	_	SpacesAfter=\r\n
-сломал	ломать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-обе	оба	NUM	_	Case=Nom|Gender=Fem	_	_	_	SpacesAfter=\r\n
-ноги	нога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-очень	очень	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-смешно	смешной	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	SpacesAfter=\r\n
-было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-сделал	делать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-трюк	трюк	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-там	там	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-еще	еще	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-дальше	далеко	ADV	_	Degree=Cmp	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-что	что	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-перелез	перелез	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-ограду	ограда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-у	у	ADP	_	_	_	_	_	SpacesAfter=\r\n
-него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-треснули	треснуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-обе	оба	NUM	_	Case=Nom|Gender=Fem	_	_	_	SpacesAfter=\r\n
-пятки	пятка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-одновременно	одновременно	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-ну	ну	PART	_	_	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-стою	стоить	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-ржу	ржа	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-а	а	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-такой	такой	DET	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-чувак	чувак	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-мои	мой	DET	_	Case=Acc|Number=Plur	_	_	_	SpacesAfter=\r\n
-ноги	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-да	да	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-забей	забь	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\r\n
-просто	просто	PART	_	_	_	_	_	SpacesAfter=\r\n
-прикалываешься	прикалываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-и	и	CCONJ	_	_	_	_	_	SpacesAfter=\r\n
-мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	SpacesAfter=\r\n
-разошлись	разойтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-вот	вот	PART	_	_	_	_	_	SpacesAfter=\r\n
-как	как	SCONJ	_	_	_	_	_	SpacesAfter=\r\n
-все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n
-закончилось	закончиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\r\n
-/	/	PUNCT	_	_	_	_	_	SpaceAfter=No
-/	/	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
+Form	Lemma	UPosTag	XPosTag	Feats
+блин	блин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+без	без	ADP	_	_	
+кофе	кофе	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	
+не	не	PART	_	_	
+начинаю	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	
+день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	
+никогда	никогда	ADV	_	Degree=Pos	
+нда	нда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	
+ну	ну	PART	_	_	
+что	что	SCONJ	_	_	
+жень	жень	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	
+расскажи	рассказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	
+как	как	SCONJ	_	_	
+добрался	добраться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	
+мхм	мх	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+гэ	гэ	X	_	Foreign=Yes	
+жэ	жэ	X	_	Foreign=Yes	
+мхм	мх	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	
+да	да	CCONJ	_	_	
+а	а	X	_	Foreign=Yes	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+ам	о	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+уже	уже	ADV	_	Degree=Pos	
+на	на	ADP	_	_	
+метро	метро	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	
+не	не	PART	_	_	
+езжу	езж	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+езжу	ездить	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	
+на	на	ADP	_	_	
+машине	машина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	
+ам	о	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	
+знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
+э	э	X	_	Foreign=Yes	
+этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	
+момент	момент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+когда	когда	SCONJ	_	_	
+теплеет	теплеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+и	и	CCONJ	_	_	
+люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	
+достают	доставать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+легкую	легкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	
+одежду	одежда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	
+слишком	слишком	ADV	_	Degree=Pos	
+рано	рано	ADV	_	Degree=Pos	
+им	они	PRON	_	Case=Dat|Number=Plur|Person=3	
+холодно	холодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+недавно	недавно	ADV	_	Degree=Pos	
+видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+как	как	SCONJ	_	_	
+человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	
+слишком	слишком	ADV	_	Degree=Pos	
+рано	рано	ADV	_	Degree=Pos	
+достал	достать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+кабриолет	кабриолет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+ну	ну	PART	_	_	
+ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	
+явно	явно	ADV	_	Degree=Pos	
+было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+холодно	холодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	
+потому	потому	ADV	_	Degree=Pos	
+что	что	SCONJ	_	_	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+в	в	ADP	_	_	
+пуховике	пуховик	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	
+и	и	CCONJ	_	_	
+шапке	шапка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	
+нда	нда	ADV	_	Degree=Pos	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+бы	бы	AUX	_	_	
+не	не	PART	_	_	
+стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+вообще	вообще	ADV	_	Degree=Pos	
+покупать	покупать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	
+э	э	X	_	Foreign=Yes	
+кабриолет	кабриолет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+в	в	ADP	_	_	
+Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	
+потому	потому	ADV	_	Degree=Pos	
+что	что	SCONJ	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+живу	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+в	в	ADP	_	_	
+плохом	плохой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	
+районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+уверен	уверенный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	
+что	что	SCONJ	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+припаркаюсь	припаркаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	
+где-то	где-то	ADV	_	Degree=Pos	
+ну	ну	PART	_	_	
+отойду	отойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	
+через	через	ADP	_	_	
+время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	
+вернусь	вернуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	
+а	а	CCONJ	_	_	
+там	там	ADV	_	Degree=Pos	
+кто-то	кто-то	PRON	_	Case=Nom	
+сидит	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+ну	ну	PART	_	_	
+а	а	CCONJ	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+ничего	ничто	PRON	_	Case=Gen	
+не	не	PART	_	_	
+смогу	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	
+ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	
+сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	
+потому	потому	ADV	_	Degree=Pos	
+что	что	SCONJ	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+не	не	PART	_	_	
+смелый	смелый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	
+и	и	CCONJ	_	_	
+мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	
+просто	просто	PART	_	_	
+будем	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+с	с	ADP	_	_	
+ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	
+кататься	катываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	
+по	по	ADP	_	_	
+городу	город	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	
+там	там	ADV	_	Degree=Pos	
+покажу	показать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	
+ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	
+Москву	Москва	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	
+пососемся	пососться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	
+нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+ну	ну	PART	_	_	
+да	да	CCONJ	_	_	
+мхм	мх	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	
+мм	миллиметр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	
+мда	мд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	
+мхм	мх	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+смотрю	смотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+у	у	ADP	_	_	
+тя	ть	SCONJ	_	_	
+есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+да	да	CCONJ	_	_	
+тяга	тяга	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	
+к	к	ADP	_	_	
+знаниям	знание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+хорошо	хороший	ADV	_	Degree=Pos	
+учился	учиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	
+в	в	ADP	_	_	
+универе	универа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	
+мхм	мх	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	
+да	да	CCONJ	_	_	
+пятый	пятый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	
+курс	курс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+да	да	CCONJ	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+понял	понять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+ну	ну	PART	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+не	не	PART	_	_	
+знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+ну	ну	PART	_	_	
+погода	погода	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	
+конечно	конечно	ADV	_	Degree=Pos	
+так	так	ADV	_	Degree=Pos	
+себе	себя	PRON	_	Case=Dat	
+ну	ну	PART	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+живу	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+в	в	ADP	_	_	
+Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	
+и	и	CCONJ	_	_	
+Москва	Москва	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	
+очень	очень	ADV	_	Degree=Pos	
+мрачный	мрачный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	
+город	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+очень	очень	ADV	_	Degree=Pos	
+серый	серый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	
+это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	
+единственное	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	
+место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	
+где	где	ADV	_	Degree=Pos	
+утром	утро	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	
+встаешь	встать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
+подходишь	подходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
+к	к	ADP	_	_	
+окну	окно	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	
+раскрываешь	раскрывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
+шторы	штора	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	
+и	и	CCONJ	_	_	
+комната	комната	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	
+становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	
+темнее	темный	ADJ	_	Degree=Cmp	
+чем	чем	SCONJ	_	_	
+она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	
+была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+да	да	CCONJ	_	_	
+его	он	DET	_	_	
+главное	главный	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	
+не	не	PART	_	_	
+перепить	перепить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	
+ну	ну	PART	_	_	
+в	в	ADP	_	_	
+целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	
+нормально	нормально	ADV	_	Degree=Pos	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+на	на	ADP	_	_	
+метро	метро	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	
+ехал	ехать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+вот	вот	PART	_	_	
+единственная	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	
+проблемка	проблемка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	
+возникла	возникнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+ко	к	ADP	_	_	
+мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	
+кавказец	кавказец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	
+подсел	дсеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+узнать	узнать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	
+не	не	PART	_	_	
+гей	гей	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	
+ли	ли	PART	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+прикинь	прикинь	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	
+ну	ну	PART	_	_	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+вначале	вначале	ADV	_	Degree=Pos	
+две	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Fem	
+станции	станция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	
+прям	пре	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	
+буравил	буравило	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	
+взглядом	взгляд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	
+пытался	пытаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	
+взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+поймать	поймать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	
+мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	
+а	а	X	_	Foreign=Yes	
+у	у	ADP	_	_	
+меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	
+даже	даже	PART	_	_	
+телефона	телефон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	
+с	с	ADP	_	_	
+собой	себя	PRON	_	Case=Ins	
+нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+просто	просто	PART	_	_	
+по	по	ADP	_	_	
+дуге	дуга	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	
+его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	
+взглядом	взгляд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	
+обвожу	обводить	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	
+ну	ну	PART	_	_	
+и	и	CCONJ	_	_	
+в	в	ADP	_	_	
+моменте	момент	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+все-таки	все-таки	PART	_	_	
+поймал	поймать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	
+взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+надел	надеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+капюшон	капюшон	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	
+сел	сесть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	
+ко	к	ADP	_	_	
+мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	
+и	и	CCONJ	_	_	
+говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+гэ	гэ	X	_	Foreign=Yes	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+говорю	говорить	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	
+что	что	SCONJ	_	_	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+гэ	гэ	X	_	Foreign=Yes	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+гэ	гэ	X	_	Foreign=Yes	
+второй	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	
+раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	
+уже	уже	ADV	_	Degree=Pos	
+спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+говорю	говорить	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	
+что	что	SCONJ	_	_	
+еще	еще	ADV	_	Degree=Pos	
+раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+гэ	гэ	X	_	Foreign=Yes	
+а	а	X	_	Foreign=Yes	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+не	не	PART	_	_	
+понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+ну	ну	PART	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+действительно	действительно	ADV	_	Degree=Pos	
+не	не	PART	_	_	
+понимал	понимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+ну	ну	PART	_	_	
+странно	странно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	
+пытаться	пытаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	
+угадать	гадать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	
+что	что	SCONJ	_	_	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	
+типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+гэ	гэ	X	_	Foreign=Yes	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+не	не	PART	_	_	
+гэ	гэ	X	_	Foreign=Yes	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+жэ	жэ	X	_	Foreign=Yes	
+ну	ну	PART	_	_	
+и	и	CCONJ	_	_	
+в	в	ADP	_	_	
+общем	общий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+узнать	узнать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	
+не	не	PART	_	_	
+гей	гей	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	
+ли	ли	PART	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	
+Женек	Женек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	
+странно	странно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	
+было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+бы	бы	AUX	_	_	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+узнать	узнать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	
+ни	ни	CCONJ	_	_	
+гей	гей	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	
+ли	ли	PART	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+говорю	говорить	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	
+нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+у	у	ADP	_	_	
+тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2	
+прическа	прическа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	
+женская	женский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	
+ну	ну	PART	_	_	
+у	у	ADP	_	_	
+меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	
+тогда	тогда	ADV	_	Degree=Pos	
+действительно	действительно	ADV	_	Degree=Pos	
+другая	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	
+прическа	прическа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	
+была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+у	у	ADP	_	_	
+меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	
+из	из	ADP	_	_	
+кудрей	кудрей	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	
+[нрзб]	нрзб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	
+сплетены	сплести	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	
+такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	
+тепло	тепло	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	
+одет	одеть	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	
+даже	даже	PART	_	_	
+не	не	PART	_	_	
+выгонишь	выгонить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	
+думаешь	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
+покатаетесь	покатаеться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	
+па-	по	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	
+короче	короткий	ADJ	_	Degree=Cmp	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+кстати	кстати	ADV	_	Degree=Pos	
+знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
+что	что	PRON	_	Case=Nom	
+кабриолеты	кабриолет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	
+изначально	изначально	ADV	_	Degree=Pos	
+в	в	ADP	_	_	
+девятнадцатом	девятнадцат	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	
+веке	век	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	
+во	в	ADP	_	_	
+Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	
+появились	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	
+причём	причем	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	
+это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	
+не	не	PART	_	_	
+легковой	легковой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	
+автомобиль	автомобиль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+как	как	SCONJ	_	_	
+сейчас	сейчас	ADV	_	Degree=Pos	
+с	с	ADP	_	_	
+откидывающимся	откидывающиться	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	
+а	а	CCONJ	_	_	
+верхом	верх	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	
+а	а	X	_	Foreign=Yes	
+легкая	легкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	
+повозка	повозка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	
+конная	конный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	
+которая	который	PRON	_	Case=Nom	
+на	на	ADP	_	_	
+лошадь	лошадь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	
+запрягалась	запрягать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	
+со-	с	ADP	_	_	
+складывающейся	складываться	VERB	_	Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	
+крышей	крыша	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	
+а	а	CCONJ	_	_	
+они	они	PRON	_	Case=Nom|Number=Plur|Person=3	
+получили	получить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	
+распространение	распространение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	
+в	в	ADP	_	_	
+Париже	Париж	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	
+Лондоне	Лондон	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	
+в	в	ADP	_	_	
+континентальной	континентальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	
+Европе	Европа	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	
+они	они	PRON	_	Case=Nom|Number=Plur|Person=3	
+причем	причем	CCONJ	_	_	
+назывались	называться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	
+от	от	ADP	_	_	
+французского	французский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	
+кабриоле	кабриол	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	
+допустим	допустить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	
+а	а	CCONJ	_	_	
+в	в	ADP	_	_	
+Великобритании	Великобритания	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	
+э	э	X	_	Foreign=Yes	
+назывались	называться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	
+дроп	дроп	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+хэд	хэд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+каб	каб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+а	а	X	_	Foreign=Yes	
+купэ	купэ	X	_	Foreign=Yes	
+со	с	ADP	_	_	
+скл-	скл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+с	с	ADP	_	_	
+откидывающейся	откидываться	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	
+с	с	ADP	_	_	
+опускающейся	опускать	VERB	_	Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	
+крышей	крыша	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	
+и	и	CCONJ	_	_	
+уже	уже	ADV	_	Degree=Pos	
+в	в	ADP	_	_	
+США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	
+в	в	ADP	_	_	
+Австралии	Австралия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	
+конвёртбл	конвёртбласть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+ну	ну	PART	_	_	
+нормально	нормальный	ADV	_	Degree=Pos	
+иногда	иногда	ADV	_	Degree=Pos	
+хорошо	хороший	ADV	_	Degree=Pos	
+а	а	X	_	Foreign=Yes	
+иногда	иногда	ADV	_	Degree=Pos	
+не	не	PART	_	_	
+очень	очень	ADV	_	Degree=Pos	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+вот	вот	PART	_	_	
+год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	
+назад	назад	ADV	_	Degree=Pos	
+закончил	закончить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+и	и	CCONJ	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+как	как	SCONJ	_	_	
+на	на	ADP	_	_	
+последнем	последний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	
+курсе	курс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	
+история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	
+забавная	забавный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	
+получилась	получиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	
+что	что	SCONJ	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+скидываю	скидывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+преподу	препод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	
+работу	работа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	
+и	и	CCONJ	_	_	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	
+пишет	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	
+че	что	PRON	_	Case=Nom	
+такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	
+отправил	отправить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+а	а	X	_	Foreign=Yes	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+а	а	X	_	Foreign=Yes	
+тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2	
+ебет	ебть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+извиняюсь	извиняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	
+че	что	PRON	_	Case=Nom	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+отправил	отправить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+че-то	что	PRON	_	Case=Nom	
+отправил	отправить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+че-то	что	PRON	_	Case=Nom	
+проверил	проверить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+играем	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+свои	свой	DET	_	Case=Acc|Number=Plur	
+роли	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+хватит	хватать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	
+капать	капать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	
+под	под	ADP	_	_	
+меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	
+пятый	пятый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	
+курс	курс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+[нрзб]	нрзб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	
+зип	зип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	
+мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	
+двадцать	двадцать	NUM	_	Case=Acc	
+четыре	четыре	NUM	_	Animacy=Inan|Case=Acc	
+года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	
+на	на	ADP	_	_	
+тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	
+момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	
+[нрзб]	нрзб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	
+зип	зип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	
+скачал	скачать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+для	для	ADP	_	_	
+этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	
+архив	архив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+запаковал	запаковать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+туда	туда	ADV	_	Degree=Pos	
+что-то	что	SCONJ	_	_	
+на	на	ADP	_	_	
+мейлру	мейлр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	
+зашел	зайти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+такой	такой	DET	_	Case=Ins|Gender=Fem|Number=Sing	
+че	что	PRON	_	Case=Nom	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	
+отправил	отправить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+вау	вау	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	
+архив	архив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	
+вот	вот	PART	_	_	
+должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	
+была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	
+реакция	реакция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	
+а	а	CCONJ	_	_	
+что	что	SCONJ	_	_	
+эт	эт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+как-то	как-то	ADV	_	Degree=Pos	
+реагируешь	реагировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
+у	у	ADP	_	_	
+тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2	
+с	с	ADP	_	_	
+настроением	настроение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	
+что-то	что-то	PRON	_	Case=Acc	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+из-за	из-за	ADP	_	_	
+погоды	погода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	
+может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	
+мхм	мх	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	
+а	а	CCONJ	_	_	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+спросить	спросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	
+меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	
+че-то	что	PRON	_	Case=Nom	
+хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
+спросить	спросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	
+не	не	PART	_	_	
+занимался	заниматься	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	
+ли	ли	PART	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+паркуром	паркур	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	
+да	да	CCONJ	_	_	
+э-	э	X	_	Foreign=Yes	
+да	да	CCONJ	_	_	
+в	в	ADP	_	_	
+точку	точка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	
+в	в	ADP	_	_	
+точку	точка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+занимался	заниматься	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	
+мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	
+занимались	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	
+с	с	ADP	_	_	
+другом	другой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	
+ровно	ровно	ADV	_	Degree=Pos	
+до	до	ADP	_	_	
+того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing	
+момента	момент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	
+пока	пока	ADV	_	Degree=Pos	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+не	не	PART	_	_	
+сломал	ломать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+обе	оба	NUM	_	Case=Nom|Gender=Fem	
+ноги	нога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	
+ну	ну	PART	_	_	
+это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	
+очень	очень	ADV	_	Degree=Pos	
+смешно	смешной	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	
+было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+сделал	делать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+трюк	трюк	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	
+ну	ну	PART	_	_	
+там	там	ADV	_	Degree=Pos	
+еще	еще	ADV	_	Degree=Pos	
+дальше	далеко	ADV	_	Degree=Cmp	
+что	что	SCONJ	_	_	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+перелез	перелез	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	
+ограду	ограда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	
+и	и	CCONJ	_	_	
+у	у	ADP	_	_	
+него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	
+треснули	треснуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	
+обе	оба	NUM	_	Case=Nom|Gender=Fem	
+пятки	пятка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	
+одновременно	одновременно	ADV	_	Degree=Pos	
+ну	ну	PART	_	_	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+стою	стоить	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	
+ржу	ржа	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	
+а	а	CCONJ	_	_	
+он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	
+такой	такой	DET	_	Case=Ins|Gender=Fem|Number=Sing	
+чувак	чувак	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	
+мои	мой	DET	_	Case=Acc|Number=Plur	
+ноги	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	
+я	я	PRON	_	Case=Nom|Number=Sing|Person=1	
+говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
+да	да	CCONJ	_	_	
+забей	забь	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	
+ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	
+просто	просто	PART	_	_	
+прикалываешься	прикалываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	
+и	и	CCONJ	_	_	
+мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	
+разошлись	разойтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	
+вот	вот	PART	_	_	
+как	как	SCONJ	_	_	
+все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	
+закончилось	закончиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid
